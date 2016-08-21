@@ -6,9 +6,19 @@ An overview if my projects and repositories. Also a poor mans project management
 
 These projects are working at the moment and I try to keep this projects up-to-date. The amount of work I put into these projects depends on the popularity and my own demands.
 
+### [svenwltr/json-flatten](https://github.com/svenwltr/json-flatten)
+
+### [svenwltr/docker-syncthing](https://github.com/svenwltr/docker-syncthing)
+
 ## Private Projects
 
 These projects are only for personal use. They are highly personalized and probably aren't usable for anybody else. Still, I share them, because one may be interessted in the source code.
+
+### [svenwltr/ansible-workstation](https://github.com/svenwltr/ansible-workstation)
+
+### [svenwltr/i3-statusbar](https://github.com/svenwltr/i3-statusbar)
+
+### [svenwltr/sven.wltr.xyz](https://github.com/svenwltr/sven.wltr.xyz)
 
 ## Examples
 
